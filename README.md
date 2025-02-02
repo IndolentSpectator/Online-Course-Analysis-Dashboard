@@ -182,5 +182,4 @@ The EdTech startup required a data-driven approach to address the following key 
 
 ---
 
-This detailed insights section provides actionable recommendations for improving course offerings while highlighting areas for additional analysis to enhance decision-making. Let me know if you’d like to expand on any of these points!
 
